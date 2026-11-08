@@ -1,12 +1,12 @@
 {
-    "name": "restaurant_kitchen_app",
-    "short_name": "restaurant_kitchen_app",
+    "name": "Shawarma Lab Kitchen",
+    "short_name": "Kitchen",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
-    "orientation": "portrait-primary",
+    "background_color": "#121212",
+    "theme_color": "#121212",
+    "description": "شاشة شيف المطبخ",
+    "orientation": "any",
     "prefer_related_applications": false,
     "icons": [
         {
